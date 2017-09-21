@@ -4,5 +4,5 @@
 
 Aprendendo a usar a ferramenta git para fins acadêmicos
 
-# Autor
+## Autor
 Theodosio Banevicius
